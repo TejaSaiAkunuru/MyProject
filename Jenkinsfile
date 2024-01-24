@@ -1,0 +1,6 @@
+pipleline {
+    agent any
+    stage  {
+        
+    }
+}
